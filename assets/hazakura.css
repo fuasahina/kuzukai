@@ -26,6 +26,12 @@
       top: 0px;
       color: white;
   }
+  .unit-title {
+    text-align: center;
+    font-size: 20px;
+    font-family: "Hiragino Mincho Pro", "YuMincho", "sans-serif";
+    letter-spacing: 0.1em;
+ }
   
   .schedule {
     margin-left: auto;
@@ -34,7 +40,7 @@
 
   .footer {
     margin-top: 3%;
-    font-size: 20px;
+    font-size: 15px;
     font-family: "メイリオ";
     text-align: center;
   }
